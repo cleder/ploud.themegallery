@@ -15,6 +15,7 @@ Build app::
   >> cd ploud.themegallery
   >> python2.7 ./bootstrap.py -d
   >> ./bin/buildout -c devel.cfg
+  >> ./bin/ptah-populate -a development.ini
 
 
 Start app
